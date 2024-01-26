@@ -1,0 +1,14 @@
+/Users/30111693/Desktop/Learn C#/ToDoList/bin/Debug/net6.0/ToDoList
+/Users/30111693/Desktop/Learn C#/ToDoList/bin/Debug/net6.0/ToDoList.deps.json
+/Users/30111693/Desktop/Learn C#/ToDoList/bin/Debug/net6.0/ToDoList.runtimeconfig.json
+/Users/30111693/Desktop/Learn C#/ToDoList/bin/Debug/net6.0/ToDoList.dll
+/Users/30111693/Desktop/Learn C#/ToDoList/bin/Debug/net6.0/ToDoList.pdb
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/ToDoList.AssemblyInfoInputs.cache
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/ToDoList.AssemblyInfo.cs
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/ToDoList.dll
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/refint/ToDoList.dll
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/ToDoList.pdb
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/ToDoList.genruntimeconfig.cache
+/Users/30111693/Desktop/Learn C#/ToDoList/obj/Debug/net6.0/ref/ToDoList.dll
